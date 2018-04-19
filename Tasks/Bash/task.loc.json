@@ -16,13 +16,13 @@
   "author": "Microsoft Corporation",
   "version": {
     "Major": 3,
-    "Minor": 127,
+    "Minor": 134,
     "Patch": 0
   },
   "releaseNotes": "ms-resource:loc.releaseNotes",
-  "preview": true,
   "minimumAgentVersion": "2.115.0",
   "instanceNameFormat": "ms-resource:loc.instanceNameFormat",
+  "showEnvironmentBlock": true,
   "groups": [
     {
       "name": "advanced",

@@ -16,12 +16,12 @@
     "author": "Microsoft Corporation",
     "version": {
         "Major": 2,
-        "Minor": 129,
+        "Minor": 134,
         "Patch": 0
     },
     "releaseNotes": "This is an early preview. Script task consistency. Added support for macOS and Linux.",
-    "preview": true,
     "minimumAgentVersion": "2.115.0",
+    "showEnvironmentBlock": true,
     "groups": [
         {
             "name": "advanced",
